@@ -1,2 +1,2 @@
-# laravel-api-template
-Using Laravel 8 as backend (REST API)
+# portal-laravel8-template
+Using Laravel 8 to create a Portal template
